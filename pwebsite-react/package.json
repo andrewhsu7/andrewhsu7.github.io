@@ -1,6 +1,6 @@
 {
-  "name": "pwebsite-react",
   "homepage": "http://andrewhsu7.github.io/pwebsite-react",
+  "name": "pwebsite-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
