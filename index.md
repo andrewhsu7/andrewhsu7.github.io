@@ -1,1 +1,22 @@
-ssssssssssssssssssssssssssssssssssssss
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" type="text/css" href="index.css">
+        <img src="./andrewblanket.png" 
+        alt="Andrew in a blanket" 
+        >
+    </head>
+<p>
+    Andrew Hsu
+    <br></br>
+    Software Engineer
+</p>
+    <div>
+
+        <a href="https://www.linkedin.com/in/andrew-hsu-tx/" style="text-align: center"> LinkedIn </a>
+    </div>
+
+    <div>
+        <a href="./Andrew_Hsu_Resume.pdf" style="text-align: center"> Resume </a>
+    </div>
+</html>
