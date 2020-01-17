@@ -4,17 +4,17 @@
         <img src="./andrewblanket.png" 
         alt="Andrew in a blanket" >
     </head>
-<p>
-    Andrew Hsu
-    <br>
-    Software Engineer
-</p>
-    <div>
-
-        <a href="https://www.linkedin.com/in/andrew-hsu-tx/" style="text-align: center"> LinkedIn </a>
-    </div>
-
-    <div>
-        <a href="./Andrew_Hsu_Resume.pdf" style="text-align: center"> Resume </a>
-    </div>
+    <body>
+        <p>
+            Andrew Hsu
+            <br>
+            Software Engineer
+        </p>
+        <p>
+            <ul>
+                <li><a href="https://www.linkedin.com/in/andrew-hsu-tx/">LinkedIn</li>
+                <li><a href="./Andrew_Hsu_Resume.pdf"> Resume </a> </li>
+            </ul>
+        </p>
+    </body>
 </html>
