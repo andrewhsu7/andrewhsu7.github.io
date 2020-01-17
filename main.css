@@ -27,12 +27,5 @@ p {
     text-align: center;
 }
 
-ul {
-    list-style-type:none;
-}
-
-ul, li {
-    display:inline;
-} 
 
 
