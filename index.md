@@ -12,9 +12,10 @@
         </p>
         <p>
             <ul>
-                <li><a href="https://www.linkedin.com/in/andrew-hsu-tx/">LinkedIn</li>
-                <li><a href="./Andrew_Hsu_Resume.pdf"> Resume </a> </li>
+                <li><a href="https://www.linkedin.com/in/andrew-hsu-tx/"></a>LinkedIn</li>
+                <li><a href="./Andrew_Hsu_Resume.pdf"></a>Resume</li>
             </ul>
         </p>
     </body>
 </html>
+
