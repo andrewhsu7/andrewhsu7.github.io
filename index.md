@@ -12,8 +12,8 @@
         </p>
         <p>
             <ul>
-                <li><a href="https://www.linkedin.com/in/andrew-hsu-tx/"></a>LinkedIn</li>
-                <li><a href="./Andrew_Hsu_Resume.pdf"></a>Resume</li>
+                <li><a href="https://www.linkedin.com/in/andrew-hsu-tx/">LinkedIn</a></li>
+                <li><a href="./Andrew_Hsu_Resume.pdf">Resume</a></li>
             </ul>
         </p>
     </body>
