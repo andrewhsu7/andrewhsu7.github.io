@@ -1,13 +1,12 @@
-<!DOCTYPE html>
 <html>
     <head>
     <link rel="stylesheet" type="text/css" href="/main.css">
         <img src="./andrewblanket.png" 
-        alt="Andrew in a blanket" ></img>
+        alt="Andrew in a blanket" >
     </head>
 <p>
     Andrew Hsu
-    <br></br>
+    <br>
     Software Engineer
 </p>
     <div>
