@@ -10,11 +10,9 @@
             <br>
             Software Engineer
         </p>
-        <p>
-            <ul>
-                <li><a href="https://www.linkedin.com/in/andrew-hsu-tx/">LinkedIn</a></li>
-                <li><a href="./Andrew_Hsu_Resume.pdf">Resume</a></li>
-            </ul>
+        <p>          
+            <a href="https://www.linkedin.com/in/andrew-hsu-tx/">LinkedIn</a>
+            <a href="./Andrew_Hsu_Resume.pdf">Resume</a> 
         </p>
     </body>
 </html>
